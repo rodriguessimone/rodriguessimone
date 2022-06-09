@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Simone Rodrigues de Araujo 👋 </h1>
+  <h1> Hi, I'm Simone Rodrigues de Araujo 😉 </h1>
   <h3> -🌱 I'm currently at Serratec's Software Residency</h3>
 </div>
 
@@ -10,11 +10,11 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Simone-Postgresql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Simone-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Simone-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Simone-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Simone-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Simone-Postgresql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
   
 ##
